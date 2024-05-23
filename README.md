@@ -1,6 +1,3 @@
-#Informacion importante: Alvaro Cainzos Urtiaga
-Realice ambas funcionalidades antes de realizar commits por lo que las clases que modifique en ambas funcionalidades puse la etiqueta [VARIOS] junto con todas las modificaciones que hice.
-
 # ws-app
 
 ## Installing the development environment
